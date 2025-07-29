@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matrix Marketing | Lamodeve</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #000033;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      text-align: center;
+      background: #001F4D;
+      padding: 0.5rem;
+    }
+    nav a {
+      margin: 0 10px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+    .lookbook {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .lookbook img {
+      max-width: 300px;
+    }
+    footer {
+      background-color: #000033;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    .contact a {
+      color: #ffffff;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body><header>
+  <img src="logo.jpg" alt="Matrix Market Logo" style="max-height: 100px;">
+  <h1>Matrix Marketing</h1>
+  <p>Advertising | Events Planning | Product Marketing</p>
+</header><nav>
+  <a href="#about">About</a>
+  <a href="#models">Models Lookbook</a>
+  <a href="#designers">Fashion Designers</a>
+  <a href="#events">Events</a>
+  <a href="#contact">Contact</a>
+</nav><section id="about">
+  <h2>About Us</h2>
+  <p>Matrix Marketing is a registered Nigerian company providing advertising, event planning & management, and marketing of products and services. We help brands grow with style, strategy, and standout execution.</p>
+</section><section id="models">
+  <h2>Models Lookbook</h2>
+  <div class="lookbook">
+    <img src="model1.jpg" alt="Black Dress Model">
+  </div>
+</section><section id="designers">
+  <h2>Fashion Designers Lookbook</h2>
+  <div class="lookbook">
+    <img src="designers1.jpg" alt="Street Fashion Designers">
+  </div>
